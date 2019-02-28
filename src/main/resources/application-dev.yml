@@ -28,8 +28,8 @@ eureka:
 
 logging:
   level:
-    ROOT: debug
-    org.springframework.web: debug
+    ROOT: info
+    org.springframework.web: info
 
 
 #security:
